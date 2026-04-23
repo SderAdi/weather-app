@@ -29,3 +29,5 @@ A simple Weather App built using **HTML, CSS, and JavaScript that fetches real -
 3. API return weather data
 4. App display the data on ther screen
 
+## Here is the link of this Weather-App
+Link - https://sderadi.github.io/weather-app/
